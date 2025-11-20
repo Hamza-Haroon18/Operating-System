@@ -192,6 +192,3 @@ Total execution time: X.XXXX seconds
 * **Usman Tanveer**
 * **Hamza Haroon**
 
-
-
-Just tell me!
